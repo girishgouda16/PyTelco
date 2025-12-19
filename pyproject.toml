@@ -57,10 +57,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/PyTelco"
-Documentation = "https://github.com/YOUR_USERNAME/PyTelco#readme"
-Repository = "https://github.com/YOUR_USERNAME/PyTelco"
-Issues = "https://github.com/YOUR_USERNAME/PyTelco/issues"
+Homepage = "https://github.com/girishgouda16/PyTelco"
+Documentation = "https://github.com/girishgouda16/PyTelco#readme"
+Repository = "https://github.com/girishgouda16/PyTelco"
+Issues = "https://github.com/girishgouda16/PyTelco/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

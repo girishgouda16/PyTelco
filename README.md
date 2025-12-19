@@ -34,10 +34,10 @@ dense_df = fill_missing(dense_df, strategy='forward', entity_col='imsi')
 pip install pytelco
 
 # From GitHub
-pip install git+https://github.com/YOUR_USERNAME/PyTelco.git
+pip install git+https://github.com/girishgouda16/PyTelco.git
 
 # Local development
-git clone https://github.com/YOUR_USERNAME/PyTelco.git
+git clone https://github.com/girishgouda16/PyTelco.git
 cd PyTelco
 pip install -e .
 ```
@@ -141,15 +141,6 @@ pytelco/
 └── io/
     └── loaders.py        # load_sip, load_gtpu, load_cdr
 ```
-
----
-
-## 📖 Documentation
-
-See the full [Feature Engineering Guide](docs/telecom_feature_engineering_guide.md) for:
-- Standardized input schemas
-- Feature definitions with formulas
-- Temporal engineering patterns
 
 ---
 
