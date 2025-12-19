@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pytelco"
-version = "0.2.1"
+version = "0.2.2"
 description = "The Telco Data Science Toolkit - sklearn-style library for telecommunications data analysis"
 readme = "README.md"
 license = {text = "MIT"}

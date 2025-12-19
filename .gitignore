@@ -65,7 +65,14 @@ venv.bak/
 data/cdr/*.csv
 data/sip/*.jsonl
 data/gtpu/*.csv
+data/*.py
+
+**/data
+
 **/docs/
+
+
+
 # OS
 .DS_Store
 Thumbs.db

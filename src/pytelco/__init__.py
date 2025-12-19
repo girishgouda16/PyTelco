@@ -10,7 +10,7 @@ Modules:
     io            - Data loaders for SIP, GTP-U, CDR
 """
 
-__version__ = "0.2.1"
+__version__ = "0.2.2"
 
 # Core utilities (most used)
 from .preprocessing.time_series import (
